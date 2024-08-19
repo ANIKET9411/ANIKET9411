@@ -55,6 +55,11 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">GitHub Contribution Graph:</h3>
+
+ ![image](https://github.com/user-attachments/assets/20d353bf-daf9-4ee8-b352-48bc092a347e)
+
 <h3 align="left">GitHub Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket9411&show_icons=true&locale=en&layout=compact" alt="aniket9411" />
